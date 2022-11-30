@@ -138,6 +138,12 @@ http://45.126.83.51/session/14295f38-5cad-11ed-8d27-c81f66f89318/dr9445/h/h05/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/98.jpg" group-title="Premium Channel",Motorvision TV HD
 http://45.126.83.51/session/bd80c392-491a-11ed-a06a-c81f66f89318/uq2663/h/h09/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/120.jpg" group-title="Premium Channel",MotoRRacing TV
+http://210.210.155.37/session/a5422d9e-70ec-11ed-b03c-b82a72d63267/uq2663/h/h223/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/121.jpg" group-title="Premium Channel",HorizonSprots
+http://210.210.155.37/session/2b4fcf4a-70ed-11ed-b03c-b82a72d63267/uq2663/h/h282/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/61.jpg" group-title="International Channel",CNA
 http://45.126.83.51/session/fa8f8faa-5ca9-11ed-8b6a-b82a72d63267/uq2663/h/h29/index10.m3u8
 
