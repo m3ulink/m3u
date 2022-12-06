@@ -20,11 +20,13 @@ http://45.126.83.51/session/066cbc54-5c72-11ed-a06a-c81f66f89318/qwr9ew/s/s104/i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/80.jpg" group-title="Local Channel",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/10.jpg" group-title="Local Channel",RCTI
-https://raw.githubusercontent.com/m3ulink/url/main/RCTI
+#EXTINF:-1  tvg-name="RCTI 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/10.jpg" group-title="Local Channel" :http-referrer="https://www.rctiplus.com/",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/11.jpg" group-title="Local Channel",GTV
-https://raw.githubusercontent.com/m3ulink/url/main/GTV
+#EXTINF:-1  tvg-name="GTV 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/11.jpg" group-title="TV NASIONAL" :http-referrer="https://www.rctiplus.com/",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/8.jpg" group-title="Local Channel",ANTV
 http://45.126.83.51/session/3d825d52-5c72-11ed-a06a-c81f66f89318/qwr9ew/s/s07/index3.m3u8
