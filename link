@@ -48,6 +48,9 @@ http://210.210.155.37/session/a66b9536-5c72-11ed-99fb-c81f66f89318/uq2663/h/h06/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/22.jpg" group-title="Local Channel",RTV
 http://45.126.83.51/session/b1c078f0-5c6f-11ed-8b6a-b82a72d63267/dr9445/h/h10/index1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/20.jpg" group-title="Local Channel",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w111368808_b4256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
 http://45.126.83.51/session/d5b3bf74-5c6f-11ed-aeaf-b82a72d63267/qwr9ew/s/s10/index10.m3u8
 
