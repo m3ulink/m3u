@@ -86,6 +86,9 @@ http://45.126.83.51/session/f38eff68-5ca6-11ed-b03c-b82a72d63267/x6bnqe/s/s14/S4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/.jpg" group-title="Premium Channel",Dragon Kids
 http://rr2.dens.tv/s/s50/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/123.jpg" group-title="Premium Channel",INWILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/101.jpg" group-title="Premium Channel",HITS
 http://45.126.83.51/session/5c3426ee-5caa-11ed-8d27-c81f66f89318/dr9445/h/h37/index.m3u8
 
