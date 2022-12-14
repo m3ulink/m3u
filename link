@@ -59,6 +59,9 @@ http://210.210.155.37/session/f66250be-5c6f-11ed-aeaf-b82a72d63267/qwr9ew/s/s107
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/17.jpg" group-title="Local Channel",TVRI
 http://45.126.83.51/session/1a85e6d6-5c70-11ed-aeaf-b82a72d63267/qwr9ew/s/s11/index10.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/28.jpg" group-title="Local Channel",tvMu
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
 http://210.210.155.37/session/402a255a-5c70-11ed-8b6a-b82a72d63267/x6bnqe/s/s13/S1/mnf.m3u8
 
