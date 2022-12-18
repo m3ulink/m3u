@@ -12,7 +12,7 @@ http://210.210.155.37/session/348ca730-5c71-11ed-8b6a-b82a72d63267/x6bnqe/s/s38/
 http://45.126.83.51/session/4241dc0e-5c6e-11ed-aeaf-b82a72d63267/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://rr1.dens.tv/h/h24/index.m3u8
+http://45.126.83.51/session/4b869e90-7eb4-11ed-b1c0-b82a72d63267/dr9445/h/h24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
 http://45.126.83.51/session/dad6e89e-5c71-11ed-a06a-c81f66f89318/qwr9ew/s/s105/index3.m3u8
