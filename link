@@ -50,18 +50,6 @@ http://210.210.155.37/session/a66b9536-5c72-11ed-99fb-c81f66f89318/uq2663/h/h06/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/22.jpg" group-title="Local Channel",RTV
 http://45.126.83.51/session/b1c078f0-5c6f-11ed-8b6a-b82a72d63267/dr9445/h/h10/index1.m3u8
 
-#EXTINF:-1  tvg-name="GTV 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/11.jpg" group-title="Local Channel" :http-referrer="https://www.rctiplus.com/",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1675656959-0-0-cdf88d828c640c74d3519d61119616cd
-
-#EXTINF:-1  tvg-name="RCTI 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/10.jpg" group-title="Local Channel" :http-referrer="https://www.rctiplus.com/",RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1675656781-0-0-144b0ff05f7ea4a71ea1103bf570587a
-
-#EXTINF:-1  tvg-name="RCTI 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/18.jpg" group-title="Local Channel" :http-referrer="https://www.rctiplus.com/",MNCTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1675657024-0-0-1fa72b57b568c875097cccb4623c79ba
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
 http://45.126.83.51/session/d5b3bf74-5c6f-11ed-aeaf-b82a72d63267/qwr9ew/s/s10/index10.m3u8
 
