@@ -6,16 +6,16 @@ http://210.210.155.37/session/d90b9342-7fa4-11ed-8981-c81f66f89318/x6bnqe/s/s65/
 http://210.210.155.37/session/30700fd0-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s36/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
-http://210.210.155.37/session/487b0a08-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s35/index.m3u8
+http://210.210.155.35/session/1e7e84d8-b2c8-11ed-b03c-b82a72d63267/x6bnqe/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
-http://210.210.155.37/session/9fd78ca4-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s38/index.m3u8
+http://210.210.155.35/session/333cbd18-b2c8-11ed-b03c-b82a72d63267/x6bnqe/s/s38/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
 http://210.210.155.35:80/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://210.210.155.37/session/4b869e90-7eb4-11ed-b1c0-b82a72d63267/dr9445/h/h24/index.m3u8
+http://210.210.155.35/session/e3bf680e-b2d5-11ed-99fb-c81f66f89318/dr9445/h/h24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/index3.m3u8
@@ -27,7 +27,7 @@ http://210.210.155.35:80/qwr9ew/s/s104/index10.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/8.jpg" group-title="Local Channel",ANTV
-http://210.210.155.35:80/qwr9ew/s/s07/index3.m3u8
+http://210.210.155.35/session/7f566b0e-b2c8-11ed-b1c0-b82a72d63267/qwr9ew/s/s07/index3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/2.jpg" group-title="Local Channel",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/index.m3u8
@@ -45,10 +45,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1956697368_b744100_sl
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1188349826_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/13.jpg" group-title="Local Channel",NET TV
-http://210.210.155.35:80/qwr9ew/s/s08/index10.m3u8
+http://210.210.155.35/session/59246616-b2c8-11ed-aeaf-b82a72d63267/uq2663/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/22.jpg" group-title="Local Channel",RTV
-http://210.210.155.35:80/dr9445/h/h10/index1.m3u8
+http://210.210.155.35/session/08d61af2-b2d6-11ed-99fb-c81f66f89318/dr9445/h/h10/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
 http://210.210.155.35/session/f94e768a-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s10/index10.m3u8
