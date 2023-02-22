@@ -51,7 +51,7 @@ http://210.210.155.35:80/qwr9ew/s/s08/index10.m3u8
 http://210.210.155.35:80/dr9445/h/h10/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
-http://45.126.83.51/session/d5b3bf74-5c6f-11ed-aeaf-b82a72d63267/qwr9ew/s/s10/index10.m3u8
+http://210.210.155.35:80/qwr9ew/s/s10/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
 http://210.210.155.37/session/f66250be-5c6f-11ed-aeaf-b82a72d63267/qwr9ew/s/s107/index.m3u8
