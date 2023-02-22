@@ -54,7 +54,7 @@ http://210.210.155.35/session/08d61af2-b2d6-11ed-99fb-c81f66f89318/dr9445/h/h10/
 http://210.210.155.35/session/f94e768a-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s10/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
-http://210.210.155.35/session/b59a15b6-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s107/index.m3u8
+http://210.210.155.35/session/c8c310bc-b2c8-11ed-b1c0-b82a72d63267/qwr9ew/s/s107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/17.jpg" group-title="Local Channel",TVRI
 http://210.210.155.35/session/95e30278-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s11/index10.m3u8
@@ -63,7 +63,7 @@ http://210.210.155.35/session/95e30278-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s11/
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-http://210.210.155.37/session/687a51ac-b2d2-11ed-a06a-c81f66f89318/x6bnqe/s/s13/index.m3u8
+http://210.210.155.37/session/e80bdd8c-b2c8-11ed-b1c0-b82a72d63267/x6bnqe/s/s13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
 http://210.210.155.35/session/da22ba6e-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s14/index10.m3u8
