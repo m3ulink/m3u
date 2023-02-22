@@ -6,7 +6,7 @@ http://210.210.155.37/session/d90b9342-7fa4-11ed-8981-c81f66f89318/x6bnqe/s/s65/
 http://210.210.155.37/session/30700fd0-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s36/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
-http://45.126.83.51/session/487b0a08-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s35/index.m3u8
+http://210.210.155.37/session/487b0a08-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
 http://210.210.155.37/session/9fd78ca4-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s38/index.m3u8
@@ -15,7 +15,7 @@ http://210.210.155.37/session/9fd78ca4-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s38/
 http://210.210.155.35:80/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://45.126.83.51/session/4b869e90-7eb4-11ed-b1c0-b82a72d63267/dr9445/h/h24/index.m3u8
+http://210.210.155.37/session/4b869e90-7eb4-11ed-b1c0-b82a72d63267/dr9445/h/h24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/index3.m3u8
@@ -72,7 +72,7 @@ http://210.210.155.35/session/da22ba6e-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s14/
 http://210.210.155.35/session/ea4b6422-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/76.jpg" group-title="Local Channel",U-Channel
-http://45.126.83.51/session/a4e0152c-5c70-11ed-8b6a-b82a72d63267/x6bnqe/s/s73/S4/mnf.m3u8
+http://210.210.155.35/session/a4e0152c-5c70-11ed-8b6a-b82a72d63267/x6bnqe/s/s73/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/38.jpg" group-title="Premium Channel",ANIPLUS HD
 http://210.210.155.35/session/b6b7b396-b2d2-11ed-8d27-c81f66f89318/dr9445/h/h02/01.m3u8
