@@ -125,9 +125,6 @@ http://210.210.155.35/session/76ed490a-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s31/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/109.jpg" group-title="Premium Channel",My Cinema Asia
 http://210.210.155.35/session/e8790572-b2c5-11ed-aeaf-b82a72d63267/x6bnqe/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/103.jpg" group-title="Premium Channel",Zee Bioskop
-http://210.210.155.35/session/9a0b6e3a-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s32/index10.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/55.jpg" group-title="Premium Channel",Thrill
 http://210.210.155.35/session/a60fd144-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s34/index.m3u8
 
