@@ -11,9 +11,6 @@ http://210.210.155.35/session/1e7e84d8-b2c8-11ed-b03c-b82a72d63267/x6bnqe/s/s35/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
 http://210.210.155.35/session/333cbd18-b2c8-11ed-b03c-b82a72d63267/x6bnqe/s/s38/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local Channel",Islam Documentary
-http://210.210.155.35/session/ec9d81ba-ccc3-11ed-b1c0-b82a72d63267/x6bnqe/s/s998/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
 http://210.210.155.35:80/uq2663/h/h12/index.m3u8
 
@@ -83,7 +80,7 @@ http://210.210.155.35/session/b6b7b396-b2d2-11ed-8d27-c81f66f89318/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/96.jpg" group-title="Premium Channel",My Kidz HD
 http://210.210.155.35/session/d307cd88-b2d2-11ed-a06a-c81f66f89318/x6bnqe/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/" group-title="Premium Channel",ZOO MOO ASIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Premium Channel",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/.jpg" group-title="Premium Channel",Dragon Kids
