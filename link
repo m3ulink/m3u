@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-http://210.210.155.37/session/d90b9342-7fa4-11ed-8981-c81f66f89318/x6bnqe/s/s65/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s65/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
-http://210.210.155.37/session/30700fd0-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s36/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s36/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
-http://210.210.155.35/session/1e7e84d8-b2c8-11ed-b03c-b82a72d63267/x6bnqe/s/s35/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s35/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
-http://210.210.155.35/session/333cbd18-b2c8-11ed-b03c-b82a72d63267/x6bnqe/s/s38/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s38/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
 http://210.210.155.35:80/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://210.210.155.35/session/e3bf680e-b2d5-11ed-99fb-c81f66f89318/dr9445/h/h24/index.m3u8
+http://210.210.155.35/session/a6b823e0-fa17-11ed-bf9c-c81f66f89318/dr9445/h/h24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/index3.m3u8
