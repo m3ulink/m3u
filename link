@@ -48,7 +48,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1188349826_b384
 http://210.210.155.37/session/c7fe2bd4-0a0d-11ee-8a8b-c81f66f89318/uq2663/h/h06/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=NET.
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/22.jpg" group-title="Local Channel",RTV
-http://210.210.155.37/session/bed221c0-0970-11ee-82ad-b82a72d63267/dr9445/h/h10/01.m3u8
+http://210.210.155.35/session/f07a6f3a-0a0f-11ee-aae2-c81f66f89318/dr9445/h/h10/index1.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=RTV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
 http://210.210.155.37/session/0795ee5c-0a0a-11ee-b20e-c81f66f89318/x6bnqe/s/s12/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Elshinta_TV
@@ -60,7 +60,7 @@ http://210.210.155.35/session/d6eb3316-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s107
 http://210.210.155.35/session/c996289c-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s11/index10.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TVRI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-http://210.210.155.37/session/e80bdd8c-b2c8-11ed-b1c0-b82a72d63267/x6bnqe/s/s13/index.m3u8
+http://210.210.155.37/session/c8bfba44-09f7-11ee-bc19-b82a72d63267/x6bnqe/s/s13/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Jak_tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
 http://210.210.155.35/session/e9919082-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s14/index10.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=RodjaTV
@@ -114,28 +114,28 @@ http://210.210.155.37/session/a3d0bc4a-0972-11ee-82ad-b82a72d63267/dr9445/h/h14/
 http://210.210.155.35/session/b1dfe17c-0a0c-11ee-b606-c81f66f89318/qwr9ew/s/s31/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=CCM_Celestial_Classic_MV-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/109.jpg" group-title="Premium Channel",My Cinema Asia
-http://210.210.155.35/session/e8790572-b2c5-11ed-aeaf-b82a72d63267/x6bnqe/h/h193/index.m3u8
+http://210.210.155.37/session/5e869684-09f7-11ee-bc19-b82a72d63267/x6bnqe/h/h193/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=My_Cinema_Asia
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/55.jpg" group-title="Premium Channel",Thrill
 http://210.210.155.35/session/c67fcd5e-0a0c-11ee-b606-c81f66f89318/qwr9ew/s/s34/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Thrill
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/87.jpg" group-title="Premium Channel",Cinema World HD
-http://210.210.155.35/session/b518e73e-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h04/index.m3u8
+http://210.210.155.35/session/88a5b31a-0a0f-11ee-aae2-c81f66f89318/dr9445/h/h04/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=CinemaWorld_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/95.jpg" group-title="Premium Channel",My Cinema HD
-http://210.210.155.35/session/26dd9936-b2c6-11ed-aeaf-b82a72d63267/x6bnqe/h/h192/index.m3u8
+http://210.210.155.37/session/834d7730-09f7-11ee-bc19-b82a72d63267/x6bnqe/h/h192/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=My_Cinema_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/92.jpg" group-title="Premium Channel",My Cinema Europe HD
 http://210.210.155.35/session/e3b32df8-0a0c-11ee-8a8b-c81f66f89318/uq2663/h/h18/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=My_Cinema_Europe_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/114.jpg" group-title="Premium Channel",My Family Channel
-http://210.210.155.35/session/486042ca-b2c6-11ed-aeaf-b82a72d63267/x6bnqe/h/h194/index.m3u8
+http://210.210.155.37/session/96709f72-09f7-11ee-bc19-b82a72d63267/x6bnqe/h/h194/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=My_Family_Channel
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/37.jpg" group-title="Premium Channel",TV5MONDE Style HD
-http://210.210.155.35/session/f6aee950-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h121/index.m3u8
+http://210.210.155.35/session/bce76e3e-0a0f-11ee-aae2-c81f66f89318/dr9445/h/h121/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TV5MONDE_Style_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/60.jpg" group-title="Premium Channel",FIGHT SPORTS HD
-http://210.210.155.35/session/0a80bae4-b2d4-11ed-8d27-c81f66f89318/dr9445/h/h05/index.m3u8
+http://210.210.155.35/session/541fcd74-0a0f-11ee-aae2-c81f66f89318/dr9445/h/h05/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=FIGHT_SPORTS_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/98.jpg" group-title="Premium Channel",Motorvision TV HD
 http://210.210.155.35/session/fb7f94b2-0a0c-11ee-8a8b-c81f66f89318/uq2663/h/h09/01.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Motorvision_TV_HD
@@ -153,22 +153,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=615
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/61.jpg" group-title="International Channel",CNA
-http://210.210.155.35/session/b86f93a4-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h29/index10.m3u8
+http://210.210.155.35/session/1eb65562-0a10-11ee-b20e-c81f66f89318/uq2663/h/h29/index10.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=CNA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/77.jpg" group-title="International Channel",NHK WORLD-JAPAN
-http://210.210.155.35/session/c8a6fbc2-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h23/index.m3u8
+http://210.210.155.35/session/3143d876-0a10-11ee-b20e-c81f66f89318/uq2663/h/h23/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=NHK_WORLD-JAPAN
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/56.jpg" group-title="International Channel",Al Jazeera English
 http://210.210.155.35/session/d6282fa0-b2c6-11ed-b03c-b82a72d63267/qwr9ew/s/s17/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/41.jpg" group-title="International Channel",TRT World
-http://210.210.155.35/session/e4f8a4a6-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h156/index2.m3u8
+http://210.210.155.35/session/42f43070-0a10-11ee-b20e-c81f66f89318/uq2663/h/h156/index2.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TRT_World
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/79.jpg" group-title="International Channel",WION
-http://210.210.155.37/session/f29057f8-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h91/index.m3u8
+http://210.210.155.37/session/527bf4a6-0a10-11ee-b20e-c81f66f89318/uq2663/h/h91/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=WION
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/104.jpg" group-title="International Channel",UATV
-http://210.210.155.37/session/0214795c-b2c7-11ed-8b6a-b82a72d63267/uq2663/h/h101/index.m3u8
+http://210.210.155.37/session/62f14f20-0a10-11ee-b20e-c81f66f89318/uq2663/h/h101/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=FREEDOM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/27.jpg" group-title="International Channel",Al Jazeera Arabic
 http://210.210.155.35/session/16fdc60c-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s16/index.m3u8
@@ -180,7 +180,7 @@ http://210.210.155.35/session/276ac0bc-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s19/
 http://210.210.155.35/session/354df29e-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/90.jpg" group-title="International Channel",TV5MONDE ASIE
-http://210.210.155.35/session/e3091eec-b2d4-11ed-99fb-c81f66f89318/dr9445/s/s212/index.m3u8
+http://210.210.155.35/session/7c0751a8-0a10-11ee-aae2-c81f66f89318/dr9445/s/s212/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TV5MONDE_ASIE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/81.jpg" group-title="International Channel",DW News
 http://210.210.155.35/session/52a8b702-b2c7-11ed-b1c0-b82a72d63267/x6bnqe/s/s25/index.m3u8
