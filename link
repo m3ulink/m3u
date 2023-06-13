@@ -51,16 +51,13 @@ http://210.210.155.35/session/59246616-b2c8-11ed-aeaf-b82a72d63267/uq2663/h/h06/
 http://210.210.155.37/session/bed221c0-0970-11ee-82ad-b82a72d63267/dr9445/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
-http://210.210.155.35/session/f94e768a-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s10/index10.m3u8
+http://210.210.155.37/session/0795ee5c-0a0a-11ee-b20e-c81f66f89318/x6bnqe/s/s12/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Elshinta_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
 http://210.210.155.35/session/c8c310bc-b2c8-11ed-b1c0-b82a72d63267/qwr9ew/s/s107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/17.jpg" group-title="Local Channel",TVRI
 http://210.210.155.35/session/95e30278-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s11/index10.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/28.jpg" group-title="Local Channel",tvMu
-https://tvmu.siar.us/tvmu/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
 http://210.210.155.37/session/e80bdd8c-b2c8-11ed-b1c0-b82a72d63267/x6bnqe/s/s13/index.m3u8
@@ -69,13 +66,10 @@ http://210.210.155.37/session/e80bdd8c-b2c8-11ed-b1c0-b82a72d63267/x6bnqe/s/s13/
 http://210.210.155.35/session/da22ba6e-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s14/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/23.jpg" group-title="Local Channel",DAAI TV
-http://210.210.155.35/session/ea4b6422-b2c4-11ed-b1c0-b82a72d63267/qwr9ew/s/s13/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/76.jpg" group-title="Local Channel",U-Channel
-http://210.210.155.35/session/a4e0152c-5c70-11ed-8b6a-b82a72d63267/x6bnqe/s/s73/S4/mnf.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/38.jpg" group-title="Premium Channel",ANIPLUS HD
-http://210.210.155.35/session/b6b7b396-b2d2-11ed-8d27-c81f66f89318/dr9445/h/h02/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/96.jpg" group-title="Premium Channel",My Kidz HD
 http://210.210.155.37/session/31f3a850-0989-11ee-aae2-c81f66f89318/x6bnqe/h/h191/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=My_Kidz_HD
