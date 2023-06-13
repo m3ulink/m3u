@@ -99,7 +99,7 @@ http://210.210.155.37/session/dbc8ceb8-0971-11ee-82ad-b82a72d63267/dr9445/h/h15/
 http://210.210.155.37/session/667a31d2-0972-11ee-82ad-b82a72d63267/dr9445/h/h07/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=KIX_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/100.jpg" group-title="Premium Channel",K-PLUS HD
-http://210.210.155.35/session/9c2503ec-b2c5-11ed-8b6a-b82a72d63267/uq2663/h/h08/index.m3u8
+http://210.210.155.35/session/9664e9e2-0a0c-11ee-8a8b-c81f66f89318/uq2663/h/h08/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=K-PLUS_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/59.jpg" group-title="Premium Channel",tvN HD
 http://210.210.155.37/session/7f1363ee-0972-11ee-82ad-b82a72d63267/dr9445/h/h20/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=tvN_HD
@@ -111,13 +111,13 @@ http://210.210.155.37/session/91e69360-0972-11ee-82ad-b82a72d63267/dr9445/h/h21/
 http://210.210.155.37/session/a3d0bc4a-0972-11ee-82ad-b82a72d63267/dr9445/h/h14/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Celestial_Movies_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/110.jpg" group-title="Premium Channel",CCM
-http://210.210.155.35/session/76ed490a-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s31/index.m3u8
+http://210.210.155.35/session/b1dfe17c-0a0c-11ee-b606-c81f66f89318/qwr9ew/s/s31/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=CCM_Celestial_Classic_MV-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/109.jpg" group-title="Premium Channel",My Cinema Asia
 http://210.210.155.35/session/e8790572-b2c5-11ed-aeaf-b82a72d63267/x6bnqe/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/55.jpg" group-title="Premium Channel",Thrill
-http://210.210.155.35/session/a60fd144-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s34/index.m3u8
+http://210.210.155.35/session/c67fcd5e-0a0c-11ee-b606-c81f66f89318/qwr9ew/s/s34/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Thrill
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/87.jpg" group-title="Premium Channel",Cinema World HD
 http://210.210.155.35/session/b518e73e-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h04/index.m3u8
@@ -126,7 +126,7 @@ http://210.210.155.35/session/b518e73e-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h04/
 http://210.210.155.35/session/26dd9936-b2c6-11ed-aeaf-b82a72d63267/x6bnqe/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/92.jpg" group-title="Premium Channel",My Cinema Europe HD
-http://210.210.155.35/session/37cf9104-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h18/index.m3u8
+http://210.210.155.35/session/e3b32df8-0a0c-11ee-8a8b-c81f66f89318/uq2663/h/h18/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=My_Cinema_Europe_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/114.jpg" group-title="Premium Channel",My Family Channel
 http://210.210.155.35/session/486042ca-b2c6-11ed-aeaf-b82a72d63267/x6bnqe/h/h194/index.m3u8
@@ -138,16 +138,16 @@ http://210.210.155.35/session/f6aee950-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h121
 http://210.210.155.35/session/0a80bae4-b2d4-11ed-8d27-c81f66f89318/dr9445/h/h05/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/98.jpg" group-title="Premium Channel",Motorvision TV HD
-http://210.210.155.35/session/7b0060c0-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h09/01.m3u8
+http://210.210.155.35/session/fb7f94b2-0a0c-11ee-8a8b-c81f66f89318/uq2663/h/h09/01.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Motorvision_TV_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/120.jpg" group-title="Premium Channel",MotoRRacing TV
-http://210.210.155.37/session/dbcfab8e-fa17-11ed-8428-c81f66f89318/uq2663/h/h25/S4/mnf.m3u8
+http://210.210.155.37/session/1135957c-0a0d-11ee-8a8b-c81f66f89318/uq2663/h/h25/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=MotoRRacing_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/121.jpg" group-title="Premium Channel",HorizonSprots
-http://210.210.155.35/session/9d9a0104-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h124/index.m3u8
+http://210.210.155.37/session/25236f6e-0a0d-11ee-8a8b-c81f66f89318/uq2663/h/h24/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=HorizonSports
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/129.jpg" group-title="Premium Channel",W Sport
-http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=W-Sport
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/131.jpg" group-title="Premium Channel",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
