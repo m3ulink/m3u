@@ -159,7 +159,7 @@ http://210.210.155.35/session/1eb65562-0a10-11ee-b20e-c81f66f89318/uq2663/h/h29/
 http://210.210.155.35/session/3143d876-0a10-11ee-b20e-c81f66f89318/uq2663/h/h23/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=NHK_WORLD-JAPAN
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/56.jpg" group-title="International Channel",Al Jazeera English
-http://210.210.155.35/session/d6282fa0-b2c6-11ed-b03c-b82a72d63267/qwr9ew/s/s17/index.m3u8
+http://210.210.155.37/session/4c52e07a-0b9c-11ee-a64a-c81f66f89318/qwr9ew/s/s17/index.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=Al_Jazeera_English
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/41.jpg" group-title="International Channel",TRT World
 http://210.210.155.35/session/42f43070-0a10-11ee-b20e-c81f66f89318/uq2663/h/h156/index2.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TRT_World
@@ -171,28 +171,28 @@ http://210.210.155.37/session/527bf4a6-0a10-11ee-b20e-c81f66f89318/uq2663/h/h91/
 http://210.210.155.37/session/62f14f20-0a10-11ee-b20e-c81f66f89318/uq2663/h/h101/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=FREEDOM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/27.jpg" group-title="International Channel",Al Jazeera Arabic
-http://210.210.155.35/session/16fdc60c-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s16/index.m3u8
+http://210.210.155.37/session/3a56eaf6-0b9c-11ee-a64a-c81f66f89318/qwr9ew/s/s16/index.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=Al_Jazeera_Arabic
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/85.jpg" group-title="International Channel",CCTV-4
-http://210.210.155.35/session/276ac0bc-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s19/index.m3u8
+http://210.210.155.35/session/2bdd6446-0b9c-11ee-a64a-c81f66f89318/qwr9ew/s/s19/index.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=CCTV-4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/69.jpg" group-title="International Channel",France 24
-http://210.210.155.35/session/354df29e-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s22/index.m3u8
+http://210.210.155.35/session/1d318198-0b9c-11ee-a64a-c81f66f89318/qwr9ew/s/s22/index.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=France_24
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/90.jpg" group-title="International Channel",TV5MONDE ASIE
 http://210.210.155.35/session/7c0751a8-0a10-11ee-aae2-c81f66f89318/dr9445/s/s212/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TV5MONDE_ASIE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/81.jpg" group-title="International Channel",DW News
-http://210.210.155.35/session/52a8b702-b2c7-11ed-b1c0-b82a72d63267/x6bnqe/s/s25/index.m3u8
+http://210.210.155.37/session/c5aafcf0-0b83-11ee-af41-b82a72d63267/x6bnqe/s/s25/index.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=DW-TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/78.jpg" group-title="International Channel",TBN
-http://210.210.155.35/session/65edeeae-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s39/index.m3u8
+http://210.210.155.35/session/f768ec12-0b9b-11ee-a64a-c81f66f89318/qwr9ew/s/s39/index.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=TBN
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/16.jpg" group-title="International Channel",CGTN Documentary
-http://210.210.155.35/session/76016e74-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s20/index10.m3u8
+http://210.210.155.35/session/e4030f5e-0b9b-11ee-a64a-c81f66f89318/qwr9ew/s/s20/index10.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=CGTN_Documentary
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/82.jpg" group-title="International Channel",Quran TV
-http://210.210.155.35/session/85350a9a-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s28/index10.m3u8
+http://210.210.155.35/session/c72a6e9a-0b9b-11ee-a64a-c81f66f89318/qwr9ew/s/s28/index10.m3u8?app_type=web&userid=615704&tkn=XVCJ64PZ702NUQFP3HOTB05MZ055UKJY&chname=Quran_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/88.jpg" group-title="International Channel",Sunna TV
 http://210.210.155.35/session/881918d4-0b12-11ee-a4d9-c81f66f89318/qwr9ew/s/s27/index10.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Sunna_TV
