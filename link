@@ -1,18 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/.jpg" group-title="Local Channel",DensPlay
+http://group1-swiftservesd-1.dens.tv/s/s37/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=DensPlay
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-http://op-group1-swiftservesd-1.dens.tv/s/s65/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=DensLife_n_Style
+http://op-group1-swiftservesd-1.dens.tv/s/s65/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=DensLife_n_Style
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
-http://op-group1-swiftservesd-1.dens.tv/s/s36/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=DensLearning_n_Knowledge
+http://op-group1-swiftservesd-1.dens.tv/s/s36/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=DensLearning_n_Knowledge
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
-http://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=DensShowBiz
+http://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=DensShowBiz
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
-http://op-group1-swiftservesd-1.dens.tv/s/s38/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=DensFood_Channel
+http://op-group1-swiftservesd-1.dens.tv/s/s38/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=DensFood_Channel
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Metro_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=Metro_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
 http://210.210.155.35/session/12d59eb4-09f3-11ee-aeaf-b82a72d63267/dr9445/h/h24/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Magna_Channel
@@ -34,6 +37,18 @@ http://210.210.155.35:80/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/5.jpg" group-title="Local Channel",Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/10.jpg" group-title="Local Channel",RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/18.jpg" group-title="Local Channel",MNCTV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/11.jpg" group-title="Local Channel",GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/19.jpg" group-title="Local Channel",iNews
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/4.jpg" group-title="Local Channel",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -147,7 +162,7 @@ http://210.210.155.37/session/1135957c-0a0d-11ee-8a8b-c81f66f89318/uq2663/h/h25/
 http://210.210.155.37/session/25236f6e-0a0d-11ee-8a8b-c81f66f89318/uq2663/h/h24/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=HorizonSports
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/129.jpg" group-title="Premium Channel",W Sport
-http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=W-Sport
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=W-Sport
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/131.jpg" group-title="Premium Channel",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
