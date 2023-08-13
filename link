@@ -15,7 +15,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8?app_type=web&userid=615
 http://op-group1-swiftservesd-1.dens.tv/s/s38/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=DensFood_Channel
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=Metro_TV
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
 http://210.210.155.35/session/12d59eb4-09f3-11ee-aeaf-b82a72d63267/dr9445/h/h24/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Magna_Channel
