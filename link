@@ -18,19 +18,19 @@ http://op-group1-swiftservesd-1.dens.tv/s/s38/index.m3u8?app_type=web&userid=615
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://210.210.155.35/session/12d59eb4-09f3-11ee-aeaf-b82a72d63267/dr9445/h/h24/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Magna_Channel
+https://op-group2-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
-http://210.210.155.35/session/70784f74-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s105/index3.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=tvOne
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/14.jpg" group-title="Local Channel",Kompas TV
-http://210.210.155.35/session/837e6a18-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s104/index10.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Kompas_TV
+https://op-krgroup2-swiftservesd-1.dens.tv/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/80.jpg" group-title="Local Channel",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=BTV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/8.jpg" group-title="Local Channel",ANTV
-http://210.210.155.35/session/9fdb5612-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s07/index3.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=antv
+https://op-group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/2.jpg" group-title="Local Channel",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/index.m3u8
@@ -60,34 +60,34 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1956697368_b744100_sl
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1188349826_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/13.jpg" group-title="Local Channel",NET TV
-http://210.210.155.37/session/c7fe2bd4-0a0d-11ee-8a8b-c81f66f89318/uq2663/h/h06/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=NET.
+https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/22.jpg" group-title="Local Channel",RTV
-http://210.210.155.35/session/f07a6f3a-0a0f-11ee-aae2-c81f66f89318/dr9445/h/h10/index1.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=RTV
+https://op-group2-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
-http://210.210.155.37/session/0795ee5c-0a0a-11ee-b20e-c81f66f89318/x6bnqe/s/s12/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Elshinta_TV
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
-http://210.210.155.35/session/d6eb3316-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s107/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TVRI_Sport
+https://op-group2-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/17.jpg" group-title="Local Channel",TVRI
-http://210.210.155.35/session/c996289c-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s11/index10.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=TVRI
+https://op-krgroup2-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-http://210.210.155.37/session/c8bfba44-09f7-11ee-bc19-b82a72d63267/x6bnqe/s/s13/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=Jak_tv
+https://op-group1-swiftservesd-1.dens.tv/s/s13/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
-http://210.210.155.35/session/e9919082-09f5-11ee-b554-b82a72d63267/qwr9ew/s/s14/index10.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=RodjaTV
+https://op-group2-swiftservesd-1.dens.tv/s/s14/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/23.jpg" group-title="Local Channel",DAAI TV
-http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=DAAI_TV
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/38.jpg" group-title="Premium Channel",ANIPLUS HD
-http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=ANIPLUS_HD
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/96.jpg" group-title="Premium Channel",My Kidz HD
-http://210.210.155.37/session/31f3a850-0989-11ee-aae2-c81f66f89318/x6bnqe/h/h191/index.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=My_Kidz_HD
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Premium Channel",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
