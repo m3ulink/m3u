@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/.jpg" group-title="Local Channel",DensPlay
-https://op-krgroup1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
+http://group1-swiftservesd-1.dens.tv/s/s37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-https://op-group1-swiftservesd-1.dens.tv/s/s65/S4/mnf.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s65/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
-https://op-group1-swiftservesd-1.dens.tv/s/s36/S4/mnf.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s36/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
-https://op-krgroup1-swiftservesd-1.dens.tv/s/s35/S4/mnf.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
-https://op-krgroup1-swiftservesd-1.dens.tv/s/s38/S4/mnf.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s38/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h12/01.m3u8
@@ -94,9 +94,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/132.jpg" group-title="Premium Channel",Toonmax TV
 http://210.210.155.35:80/qwr9ew/s/s50/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/123.jpg" group-title="Premium Channel",INWILD
-https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/101.jpg" group-title="Premium Channel",HITS
 https://op-group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
