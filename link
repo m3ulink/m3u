@@ -4,10 +4,10 @@
 http://210.210.155.35:80/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://210.210.155.37/session/8ff1557e-0970-11ee-82ad-b82a72d63267/dr9445/h/h24/01.m3u8
+http://210.210.155.35:80/dr9445/h/h24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
-http://210.210.155.37/session/79b075fc-0988-11ee-bf9c-c81f66f89318/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/14.jpg" group-title="Local Channel",Kompas TV
 http://210.210.155.35:80/qwr9ew/s/s104/index10.m3u8
