@@ -1,4 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
+http://210.210.155.35:80/x6bnqe/s/s65/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
+http://210.210.155.35:80/x6bnqe/s/s36/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
+http://210.210.155.35:80/x6bnqe/s/s35/S1/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
+http://210.210.155.35:80/x6bnqe/s/s50/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
 http://210.210.155.35:80/uq2663/h/h12/index.m3u8
 
@@ -51,7 +64,7 @@ http://210.210.155.35:80/qwr9ew/s/s08/index10.m3u8
 http://210.210.155.35:80/dr9445/h/h10/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
-http://210.210.155.35:80/qwr9ew/s/s12/S4/mnf.m3u8
+http://210.210.155.35:80/x6bnqe/s/s12/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
 http://210.210.155.35:80/qwr9ew/s/s107/01.m3u8
@@ -60,13 +73,13 @@ http://210.210.155.35:80/qwr9ew/s/s107/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s11/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-http://210.210.155.35:80/qwr9ew/s/s13/S4/mnf.m3u8
+http://210.210.155.35:80/x6bnqe/s/s13/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
 http://210.210.155.35:80/qwr9ew/s/s14/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/23.jpg" group-title="Local Channel",DAAI TV
-http://210.210.155.35:80/qwr9ew/s/s182/S4/mnf.m3u8
+http://210.210.155.35:80/x6bnqe/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/38.jpg" group-title="Premium Channel",ANIPLUS HD
 http://210.210.155.35:80/uq2663/h/h114/S4/mnf.m3u8
@@ -180,7 +193,7 @@ http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s212/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/81.jpg" group-title="International Channel",DW News
-http://210.210.155.35:80/qwr9ew/s/s25/S4/mnf.m3u8
+http://210.210.155.35:80/x6bnqe/s/s25/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/78.jpg" group-title="International Channel",TBN
 http://210.210.155.35:80/qwr9ew/s/s39/01.m3u8
