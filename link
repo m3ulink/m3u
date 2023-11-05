@@ -148,46 +148,46 @@ http://210.210.155.35:80/uq2663/h/h26/S4/mnf.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/61.jpg" group-title="International Channel",CNA
-http://210.210.155.35:80/uq2663/h/h29/01.m3u8
+http://210.210.155.35:80/uq2663/h/h203/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/77.jpg" group-title="International Channel",NHK WORLD-JAPAN
-http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+http://210.210.155.35:80/uq2663/h/h216/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/56.jpg" group-title="International Channel",Al Jazeera English
-http://210.210.155.35:80/uq2663/h/h143/S4/mnf.m3u8
+http://210.210.155.35:80/uq2663/h/h143/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/41.jpg" group-title="International Channel",TRT World
-http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
+http://210.210.155.35:80/uq2663/h/h156/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/79.jpg" group-title="International Channel",WION
-http://210.210.155.35:80/uq2663/h/h91/S4/mnf.m3u8
+http://210.210.155.35:80/uq2663/h/h91/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/104.jpg" group-title="International Channel",UATV
-http://210.210.155.35:80/uq2663/h/h101/S4/mnf.m3u8
+http://210.210.155.35:80/uq2663/h/h101/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/27.jpg" group-title="International Channel",Al Jazeera Arabic
-http://210.210.155.35:80/qwr9ew/s/s16/01.m3u8
+http://210.210.155.35:80/uq2663/h/h246/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/85.jpg" group-title="International Channel",CCTV-4
-http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+http://210.210.155.35:80/uq2663/h/h228/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/69.jpg" group-title="International Channel",France 24
-http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+http://210.210.155.35:80/uq2663/h/h226/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/90.jpg" group-title="International Channel",TV5MONDE ASIE
-http://210.210.155.35:80/qwr9ew/s/s212/01.m3u8
+http://210.210.155.35:80/uq2663/h/h247/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/81.jpg" group-title="International Channel",DW News
-http://210.210.155.35:80/x6bnqe/s/s25/S4/mnf.m3u8
+http://210.210.155.35:80/x6bnqe/s/s25/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/78.jpg" group-title="International Channel",TBN
-http://210.210.155.35:80/qwr9ew/s/s39/01.m3u8
+http://210.210.155.35:80/uq2663/h/h236/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/16.jpg" group-title="International Channel",CGTN Documentary
-http://210.210.155.35:80/qwr9ew/s/s20/01.m3u8
+http://210.210.155.35:80/uq2663/h/h248/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/82.jpg" group-title="International Channel",Quran TV
-http://210.210.155.35:80/qwr9ew/s/s28/01.m3u8
+http://210.210.155.35:80/uq2663/h/h241/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/88.jpg" group-title="International Channel",Sunna TV
-http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
+http://210.210.155.35:80/uq2663/h/h243/index.m3u8
