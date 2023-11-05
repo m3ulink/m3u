@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-https://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=DensLife_n_Style
+http://210.210.155.35:80/x6bnqe/s/s51/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
 http://210.210.155.35:80/x6bnqe/s/s36/S4/mnf.m3u8
@@ -13,22 +13,22 @@ http://210.210.155.35:80/x6bnqe/s/s35/S1/mnf.m3u8
 http://210.210.155.35:80/x6bnqe/s/s50/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
-https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=Metro_TV
+http://210.210.155.35:80/uq2663/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+http://210.210.155.35:80/uq2663/h/h222/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
 http://210.210.155.35:80/uq2663/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/14.jpg" group-title="Local Channel",Kompas TV
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+http://210.210.155.35:80/uq2663/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/80.jpg" group-title="Local Channel",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/8.jpg" group-title="Local Channel",ANTV
-https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=antv
+http://210.210.155.35:80/uq2663/h/h235/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/4.jpg" group-title="Local Channel",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -40,25 +40,25 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1956697368_b744100_sl
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1188349826_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/13.jpg" group-title="Local Channel",NET TV
-https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=NET.
+http://210.210.155.35:80/uq2663/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/22.jpg" group-title="Local Channel",RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=RTV
+http://210.210.155.35:80/uq2663/h/h225/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
 http://210.210.155.35:80/x6bnqe/s/s12/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
-https://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=TVRI_Sport
+http://210.210.155.35:80/uq2663/h/h238/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/17.jpg" group-title="Local Channel",TVRI
-https://op-group1-swiftservehd-1.dens.tv/h/h237/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=TVRI
+http://210.210.155.35:80/uq2663/h/h237/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=Jak_tv
+http://210.210.155.35:80/x6bnqe/s/s123/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
-https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+http://210.210.155.35:80/uq2663/h/h233/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/23.jpg" group-title="Local Channel",DAAI TV
 http://210.210.155.35:80/x6bnqe/s/s182/S4/mnf.m3u8
