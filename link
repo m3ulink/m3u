@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-http://210.210.155.35:80/x6bnqe/s/s65/S4/mnf.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=DensLife_n_Style
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
 http://210.210.155.35:80/x6bnqe/s/s36/S4/mnf.m3u8
@@ -67,7 +67,7 @@ http://210.210.155.35:80/x6bnqe/s/s182/S4/mnf.m3u8
 http://210.210.155.35:80/uq2663/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/96.jpg" group-title="Premium Channel",My Kidz HD
-http://210.210.155.35:80/uq2663/h/h191/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Premium Channel",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
