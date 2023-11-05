@@ -13,10 +13,10 @@ http://210.210.155.35:80/x6bnqe/s/s35/S1/mnf.m3u8
 http://210.210.155.35:80/x6bnqe/s/s50/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
-http://210.210.155.35:80/uq2663/h/h12/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8?app_type=web&userid=685294&tkn=8X4CWUCBHRQ8V94FW24AZXQERZBOPID8&chname=Metro_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://210.210.155.35:80/dr9445/h/h24/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
 http://210.210.155.35:80/uq2663/h/h40/01.m3u8
