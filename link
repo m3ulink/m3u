@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-http://210.210.155.35:80/x6bnqe/s/s51/live.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
 http://210.210.155.35:80/x6bnqe/s/s36/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
-http://210.210.155.35:80/x6bnqe/s/s35/S1/mnf.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
 http://210.210.155.35:80/x6bnqe/s/s50/live.m3u8
@@ -46,7 +46,7 @@ http://210.210.155.35:80/uq2663/h/h223/index.m3u8
 http://210.210.155.35:80/uq2663/h/h225/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
-http://210.210.155.35:80/x6bnqe/s/s12/S4/mnf.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
 http://210.210.155.35:80/uq2663/h/h238/index.m3u8
@@ -55,7 +55,7 @@ http://210.210.155.35:80/uq2663/h/h238/index.m3u8
 http://210.210.155.35:80/uq2663/h/h237/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-http://210.210.155.35:80/x6bnqe/s/s123/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s13/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
 http://210.210.155.35:80/uq2663/h/h233/02.m3u8
@@ -103,7 +103,7 @@ http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 http://210.210.155.35:80/uq2663/h/h239/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/109.jpg" group-title="Premium Channel",My Cinema Asia
-https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/55.jpg" group-title="Premium Channel",Thrill
 http://210.210.155.35:80/uq2663/h/h240/index.m3u8
