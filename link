@@ -72,9 +72,6 @@ https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Premium Channel",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium Channel",spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/101.jpg" group-title="Premium Channel",HITS
 http://210.210.155.35:80/uq2663/h/h205/index.m3u8
 
