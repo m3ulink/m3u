@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+http://210.210.155.35:80/uq2663/h/h222/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
 http://210.210.155.35:80/x6bnqe/s/s36/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
-https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
+http://210.210.155.35:80/uq2663/h/h244/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
 http://210.210.155.35:80/x6bnqe/s/s50/live.m3u8
@@ -45,9 +45,6 @@ http://210.210.155.35:80/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/22.jpg" group-title="Local Channel",RTV
 http://210.210.155.35:80/uq2663/h/h225/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/94.jpg" group-title="Local Channel",Elsinta TV
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/118.jpg" group-title="Local Channel",TVRI Sport
 http://210.210.155.35:80/uq2663/h/h238/index.m3u8
 
@@ -55,7 +52,7 @@ http://210.210.155.35:80/uq2663/h/h238/index.m3u8
 http://210.210.155.35:80/uq2663/h/h237/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-https://op-group1-swiftservesd-1.dens.tv/s/s13/S4/mnf.m3u8
+http://210.210.155.35:80/x6bnqe/s/s13/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
 http://210.210.155.35:80/uq2663/h/h233/02.m3u8
@@ -67,7 +64,7 @@ http://210.210.155.35:80/x6bnqe/s/s182/S4/mnf.m3u8
 http://210.210.155.35:80/uq2663/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/96.jpg" group-title="Premium Channel",My Kidz HD
-https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+http://210.210.155.35:80/uq2663/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Premium Channel",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -103,7 +100,7 @@ http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 http://210.210.155.35:80/uq2663/h/h239/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/109.jpg" group-title="Premium Channel",My Cinema Asia
-https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+http://210.210.155.35:80/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/55.jpg" group-title="Premium Channel",Thrill
 http://210.210.155.35:80/uq2663/h/h240/index.m3u8
@@ -112,13 +109,13 @@ http://210.210.155.35:80/uq2663/h/h240/index.m3u8
 http://210.210.155.35:80/uq2663/h/h202/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/95.jpg" group-title="Premium Channel",My Cinema HD
-https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+http://210.210.155.35:80/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/92.jpg" group-title="Premium Channel",My Cinema Europe HD
 http://210.210.155.35:80/uq2663/h/h208/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/114.jpg" group-title="Premium Channel",My Family Channel
-https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/37.jpg" group-title="Premium Channel",TV5MONDE Style HD
 http://210.210.155.35:80/uq2663/h/h209/index.m3u8
@@ -127,7 +124,7 @@ http://210.210.155.35:80/uq2663/h/h209/index.m3u8
 http://210.210.155.35:80/uq2663/h/h228/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/60.jpg" group-title="Premium Channel",FIGHT SPORTS HD
-http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+http://210.210.155.35:80/uq2663/h/h204/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/98.jpg" group-title="Premium Channel",Motorvision TV HD
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
