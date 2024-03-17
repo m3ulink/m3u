@@ -112,7 +112,7 @@ http://210.210.155.35:80/uq2663/h/h202/index.m3u8
 http://210.210.155.35:80/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/92.jpg" group-title="Premium Channel",My Cinema Europe HD
-http://210.210.155.35:80/uq2663/h/h208/index.m3u8
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/114.jpg" group-title="Premium Channel",My Family Channel
 http://210.210.155.35:80/uq2663/h/h194/index.m3u8
