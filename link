@@ -4,7 +4,7 @@
 http://210.210.155.35:80/uq2663/h/h222/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
-http://210.210.155.35:80/x6bnqe/s/s36/S4/mnf.m3u8
+http://210.210.155.35:80/uq2663/h/h236/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
 http://210.210.155.35:80/uq2663/h/h244/index.m3u8
@@ -52,7 +52,7 @@ http://210.210.155.35:80/uq2663/h/h238/index.m3u8
 http://210.210.155.35:80/uq2663/h/h237/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/112.jpg" group-title="Local Channel",Jaktv
-http://210.210.155.35:80/x6bnqe/s/s13/S4/mnf.m3u8
+http://210.210.155.35:80/x6bnqe/s/s123/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
 http://210.210.155.35:80/uq2663/h/h233/02.m3u8
