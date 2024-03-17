@@ -91,7 +91,7 @@ http://210.210.155.35:80/uq2663/h/h08/index.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/58.jpg" group-title="Premium Channel",tvN Movies HD
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+http://210.210.155.35:80/dr9445/h/h215/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/99.jpg" group-title="Premium Channel",Celestial Movies
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
@@ -118,7 +118,7 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/37.jpg" group-title="Premium Channel",TV5MONDE Style HD
-http://210.210.155.35:80/uq2663/h/h209/index.m3u8
+http://210.210.155.35:80/uq2663/h/h121/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/.jpg" group-title="Premium Channel",crema.tv
 http://210.210.155.35:80/uq2663/h/h228/S4/mnf.m3u8
@@ -127,7 +127,7 @@ http://210.210.155.35:80/uq2663/h/h228/S4/mnf.m3u8
 http://210.210.155.35:80/uq2663/h/h204/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/98.jpg" group-title="Premium Channel",Motorvision TV HD
-http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+http://210.210.155.35:80/uq2663/h/h242/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/120.jpg" group-title="Premium Channel",MotoRRacing TV
 http://210.210.155.35:80/uq2663/h/h123/live.m3u8
@@ -163,7 +163,7 @@ http://210.210.155.35:80/uq2663/h/h101/index.m3u8
 http://210.210.155.35:80/uq2663/h/h246/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/85.jpg" group-title="International Channel",CCTV-4
-http://210.210.155.35:80/uq2663/h/h228/index.m3u8
+http://210.210.155.35:80/x6bnqe/s/s19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/69.jpg" group-title="International Channel",France 24
 http://210.210.155.35:80/uq2663/h/h226/index.m3u8
@@ -181,7 +181,7 @@ http://210.210.155.35:80/uq2663/h/h236/index.m3u8
 http://210.210.155.35:80/uq2663/h/h248/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/82.jpg" group-title="International Channel",Quran TV
-http://210.210.155.35:80/uq2663/h/h241/index.m3u8
+http://210.210.155.35:80/x6bnqe/s/s28/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/88.jpg" group-title="International Channel",Sunna TV
-http://210.210.155.35:80/uq2663/h/h243/index.m3u8
+http://210.210.155.35:80/x6bnqe/s/s27/01.m3u8
