@@ -31,7 +31,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 http://210.210.155.35:80/uq2663/h/h235/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/4.jpg" group-title="Local Channel",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+https://live-b.cf.dmcdn.net/sec2(fdw0DHOrPFZE9jf--OC2FCvX9Z4ednhA0x9F587e6Kvk5CLcsl4ZkiXkLVbxjCKgXXPKe97xFH93_Sr1dewosubrUHwSJmLxnYwxydBzHFQ)/dm/3/x8qckyq/d/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/3.jpg" group-title="Local Channel",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1956697368_b744100_sleng.m3u8
