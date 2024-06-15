@@ -1,31 +1,43 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/42.jpg" group-title="Local Channel",Life & Style
-http://210.210.155.35:80/uq2663/h/h222/02.m3u8
+http://210.210.155.35:80/uq2663/h/h222/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Learning & Knowledge
-http://210.210.155.35:80/uq2663/h/h236/02.m3u8
+http://210.210.155.35:80/uq2663/h/h236/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/102.jpg" group-title="Local Channel",ShowBiz
 http://210.210.155.35:80/uq2663/h/h244/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Local Channel",Food Channel
-http://210.210.155.35:80/uq2663//h/h221/02.m3u8
+http://210.210.155.35:80/uq2663/h/h221/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Local Channel",Knowledge
+http://210.210.155.35:80/uq2663//h/h236/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local Channel",NaDoo Commerce
+http://210.210.155.35:80/uq2663/h/h126/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local Channel",NaDooKorean
+http://210.210.155.35:80/uq2663/h/h125/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/6.jpg" group-title="Local Channel",Metro TV
 http://210.210.155.35:80/uq2663/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/122.jpg" group-title="Local Channel",Magna Channel
-http://210.210.155.35:80/uq2663/h/h222/02.m3u8
+http://210.210.155.35:80/uq2663/h/h222/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg" group-title="Local Channel",TVONE
-http://210.210.155.35:80/uq2663/h/h40/01.m3u8
+http://210.210.155.35:80/uq2663/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/14.jpg" group-title="Local Channel",Kompas TV
-http://210.210.155.35:80/uq2663/h/h234/02.m3u8
+http://210.210.155.35:80/uq2663/h/h234/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/80.jpg" group-title="Local Channel",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local Channel",IDTV
+http://210.210.155.35:80/uq2663/h/h200/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/8.jpg" group-title="Local Channel",ANTV
 http://210.210.155.35:80/uq2663/h/h235/index.m3u8
@@ -55,13 +67,13 @@ http://210.210.155.35:80/uq2663/h/h237/index.m3u8
 http://210.210.155.35:80/x6bnqe/s/s123/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/21.jpg" group-title="Local Channel",Rodja TV
-http://210.210.155.35:80/uq2663/h/h233/02.m3u8
+http://210.210.155.35:80/uq2663/h/h233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/23.jpg" group-title="Local Channel",DAAI TV
 http://210.210.155.35:80/x6bnqe/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/38.jpg" group-title="Premium Channel",ANIPLUS HD
-http://210.210.155.35:80/uq2663/h/h201/02.m3u8
+http://210.210.155.35:80/uq2663/h/h201/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/96.jpg" group-title="Premium Channel",My Kidz HD
 http://210.210.155.35:80/uq2663/h/h191/index.m3u8
@@ -77,6 +89,12 @@ http://210.210.155.35:80/uq2663/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/49.jpg" group-title="Premium Channel",KIX HD
 http://210.210.155.35:80/uq2663/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Premium Channel",KBS Korea
+http://210.210.155.35:80/uq2663/h/h241/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Premium Channel",KBS World
+http://210.210.155.35:80/uq2663/h/h243/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/100.jpg" group-title="Premium Channel",K-PLUS HD
 http://210.210.155.35:80/uq2663/h/h08/index.m3u8
@@ -117,6 +135,15 @@ http://210.210.155.35:80/uq2663/h/h121/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/.jpg" group-title="Premium Channel",crema.tv
 http://210.210.155.35:80/uq2663/h/h202/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Premium Channel",Stingray Classica
+http://210.210.155.35:80/uq2663/h/h229/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Premium Channel",Deluxe Lounge
+http://210.210.155.35:80/uq2663/h/h172/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Premium Channel",Dance TV
+http://210.210.155.35:80/uq2663/h/h250/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/60.jpg" group-title="Premium Channel",FIGHT SPORTS HD
 http://210.210.155.35:80/uq2663/h/h204/index.m3u8
 
@@ -139,7 +166,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 http://210.210.155.35:80/uq2663/h/h203/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/77.jpg" group-title="International Channel",NHK WORLD-JAPAN
-http://210.210.155.35:80/uq2663/h/h216/index.m3u8
+http://210.210.155.35:80/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/56.jpg" group-title="International Channel",Al Jazeera English
 http://210.210.155.35:80/uq2663/h/h143/index2.m3u8
